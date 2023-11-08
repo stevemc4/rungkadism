@@ -3,5 +3,5 @@
   command = "npm run build"
 [[edge_functions]]
   function = "app"
-  excludedPath = "/*.css"
+  excludedPath = "/static/**/*.*"
   path = "/*"
