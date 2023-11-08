@@ -9,7 +9,7 @@ import Layout from '../layout/default.tsx'
 const Index: FC = () => {
   return (
     <Layout>
-      Apa boleh serungkad ini?
+      Rungkadism
     </Layout>
   )
 }
